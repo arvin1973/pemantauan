@@ -93,6 +93,12 @@
                         <span class="d-none d-sm-block">Grafik</span>
                     </a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="maps-b2-tab" data-toggle="tab" href="#maps-b2" role="tab" aria-controls="maps-b2" aria-selected="false">
+                        <span class="d-block d-sm-none"><i class="mdi mdi-account-outline font-18"></i></span>
+                        <span class="d-none d-sm-block">Maps</span>
+                    </a>
+                </li>
                 <!-- <li class="nav-item">
                     <a class="nav-link" id="peta-b2-tab" data-toggle="tab" href="#peta-b2" role="tab" aria-controls="peta-b2" aria-selected="false">
                         <span class="d-block d-sm-none"><i class="mdi mdi-email-outline font-18"></i></span>

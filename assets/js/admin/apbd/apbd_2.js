@@ -278,8 +278,6 @@ function tabel_apbd() {
                             }
                         }
                         
-                        
-
                         var chartId = 'grafik-' + (g + 1);
                         
                         html_grafik = '<div id='+chartId+' class="mb-2"></div>';
@@ -306,9 +304,6 @@ function tabel_apbd() {
                             });
                         });
 
-                        console.log(grafikmaindata);
-                        console.log(seriessubgrafik[0]);
-
                         Highcharts.chart(chartId, {
                             chart: {
                               type: 'column'
@@ -323,6 +318,9 @@ function tabel_apbd() {
                                 groupPadding: 0.1
                               }
                             },	
+                            tooltip: {
+                                shared: true,
+                            },
                             xAxis: {
                               type: 'category',
                             },
@@ -335,7 +333,20 @@ function tabel_apbd() {
                               }
                             },
                             series: grafikmaindata,
-                            drilldown: seriessubgrafik[0]
+                            drilldown: seriessubgrafik[0],
+                            exporting: {
+                                buttons: {
+                                    copyToClipboard: {
+                                        text: 'Copy Chart',
+                                        _titleKey: 'contextButtonTitle',
+                                        align: 'right',
+                                        onclick: function () {
+                                            // Call the function to copy the chart to the clipboard
+                                            copyHtmlToClipboard(this.container);
+                                        },            
+                                    }
+                                }
+                            }
                         });
                           
                     }

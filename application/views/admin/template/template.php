@@ -10,6 +10,7 @@
     <meta content="Responsive bootstrap 4 admin template" name="description" />
     <meta content="Coderthemes" name="author" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
     <!-- App favicon -->
     <link rel="shortcut icon" href="<?php echo base_url("assets") ?>/images/favicon_bappenas_2023.ico" />
 
@@ -74,6 +75,18 @@
         }
     </style>
 
+    <style>
+        .highcharts-button-box {
+            border: 2px solid #007BFF; /* Add your preferred border styles here */
+            border-radius: 5px;
+            background: #007BFF; /* Background color when the button is not hovered */
+            color: #fff; /* Text color */
+        }
+
+        .highcharts-button-box:hover {
+            background: #0056b3; /* Background color when the button is hovered */
+        }
+    </style>
     <!-- <style>
         .selectpicker {
             -webkit-appearance: menulist;
@@ -424,7 +437,8 @@
     <script src="<?php echo base_url("assets") ?>/js/vendor.min.js"></script>
     <script src="<?php echo base_url("assets") ?>/libs/moment/moment.min.js"></script>
     <script src="<?php echo base_url("assets") ?>/libs/jquery-scrollto/jquery.scrollTo.min.js"></script>
-    <script src="<?php echo base_url("assets") ?>/libs/sweetalert2/sweetalert2.min.js"></script>
+    <!-- <script src="<?php echo base_url("assets") ?>/libs/sweetalert2/sweetalert2.min.js"></script> -->
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="<?php echo base_url("assets") ?>/libs/jquery-validation/jquery.validate.min.js"></script>
     <!-- third party js -->
     <script src="<?php echo base_url("assets") ?>/libs/datatables/jquery.dataTables.min.js"></script>
@@ -517,6 +531,9 @@
     <script src="https://cdn.datatables.net/fixedheader/3.3.2/js/dataTables.fixedHeader.min.js"></script>
     <script src="https://cdn.datatables.net/rowgroup/1.3.1/js/dataTables.rowGroup.min.js"></script>
     <script src="https://cdn.datatables.net/buttons/2.3.6/css/buttons.dataTables.min.css"></script>
+
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.js"></script>
+
 
 
 
@@ -735,9 +752,55 @@
             ]
         }
     ]
-}
+},
+exporting: {
+        buttons: {
+            copyToClipboard: {
+                text: 'Copy Chart',
+                _titleKey: 'contextButtonTitle',
+                align: 'right',
+                onclick: function () {
+                    // Call the function to copy the chart to the clipboard
+                    copyHtmlToClipboard(this.container);
+                },            
+            }
+        }
+    }
 
 });
+
+</script>
+
+    <script>
+        function copyHtmlToClipboard(htmlElement) {
+        // Capture the HTML element using html2canvas
+        html2canvas(htmlElement).then(canvas => {
+            // Convert the canvas to a data URL
+            const imageUrl = canvas.toDataURL('image/png');
+            const imgElement = document.createElement('img');
+            imgElement.src = imageUrl;
+
+            const container = document.createElement('div');
+            container.appendChild(imgElement);
+            document.body.appendChild(container);
+
+            const range = document.createRange();
+            range.selectNode(container);
+
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+
+            document.execCommand('copy');
+            container.remove();
+
+            swal("Grafik berhasil disalin", {icon: "success",
+                buttons: false,
+                timer: 1000,
+            });
+        });
+    }
+
 
     </script>
     <script type="text/javascript">
