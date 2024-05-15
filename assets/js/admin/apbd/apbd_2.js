@@ -196,6 +196,7 @@ function tabel_apbd() {
                 data:data, //Form variables
                 success:function(response){
                     var data = JSON.parse(response);
+                    console.log(data);
                     var grafik_data = [];
                     var grafik_drilldown_data =[];
 
@@ -218,6 +219,8 @@ function tabel_apbd() {
                     //drilldown
                     $('#html_barchart').html('');
                     var html_barchart = '';
+                    console.log(grafik_data);
+                    console.log(grafik_drilldown_data);
 
 
                     for(let g = 0; g < grafik_data.length; g++){

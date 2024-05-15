@@ -1778,3 +1778,362 @@ ERROR - 2024-05-15 11:41:29 --> Severity: Notice --> Undefined offset: 0 C:\xamp
 ERROR - 2024-05-15 11:41:29 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
 ERROR - 2024-05-15 11:41:29 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
 ERROR - 2024-05-15 11:41:29 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 12:08:27 --> 404 Page Not Found: Assets/images
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 12:08:28 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 12:08:37 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 12:08:37 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:05:14 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:05:14 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:05:14 --> 404 Page Not Found: Assets/images
+ERROR - 2024-05-15 13:05:14 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 13:05:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 13:06:47 --> 404 Page Not Found: Assets/images
+ERROR - 2024-05-15 13:08:59 --> 404 Page Not Found: Assets/images
+ERROR - 2024-05-15 13:09:00 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 409
+ERROR - 2024-05-15 13:09:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 409
+ERROR - 2024-05-15 13:09:00 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 410
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 410
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 426
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 426
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 428
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 428
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 434
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 434
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 435
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 435
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 447
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 447
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 448
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 448
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 465
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 465
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 467
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 467
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 476
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 476
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 477
+ERROR - 2024-05-15 13:09:01 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 477
+ERROR - 2024-05-15 13:09:12 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:09:12 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:09:30 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:09:30 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:09:30 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:09:30 --> 404 Page Not Found: Assets/images
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 13:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 13:11:32 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:11:32 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:11:32 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 13:11:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 13:20:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 13:21:13 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 13:21:28 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:21:28 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:22:53 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:22:53 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:22:53 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:22:54 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:22:54 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:22:54 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:22:55 --> 404 Page Not Found: Assets/images
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 13:22:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 13:23:20 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:23:20 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:23:20 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:23:20 --> 404 Page Not Found: Assets/images
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 405
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 406
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 422
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 424
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 443
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 444
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 461
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 463
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 472
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 13:23:21 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 473
+ERROR - 2024-05-15 13:59:21 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:59:21 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:59:21 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 13:59:22 --> 404 Page Not Found: Assets/images
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 411
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 411
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 412
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 412
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 428
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 428
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 436
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 436
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 437
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 437
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 449
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 449
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 450
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 450
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 467
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 467
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 469
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 469
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 478
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 478
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 479
+ERROR - 2024-05-15 13:59:23 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 479
+ERROR - 2024-05-15 14:00:52 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 14:00:53 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 14:00:53 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 14:00:54 --> 404 Page Not Found: Assets/images
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 413
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 413
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 414
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 414
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 430
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 432
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 432
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 438
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 438
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 439
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 439
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 451
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 451
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 452
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 452
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 469
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 469
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 471
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 471
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 480
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 480
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 481
+ERROR - 2024-05-15 14:00:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 481
+ERROR - 2024-05-15 14:02:05 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 14:02:05 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 14:02:05 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 14:02:05 --> 404 Page Not Found: Assets/images
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 412
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 412
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 413
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 413
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 429
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 429
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 437
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 437
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 438
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 438
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 450
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 450
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 451
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 451
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 468
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 468
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 470
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 470
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 479
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 479
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 480
+ERROR - 2024-05-15 14:02:06 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 480
+ERROR - 2024-05-15 14:02:47 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 14:02:47 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 14:02:47 --> 404 Page Not Found: Assets/images
+ERROR - 2024-05-15 14:02:47 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 412
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 412
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 413
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 413
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 429
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 429
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 431
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 437
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 437
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 438
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 438
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 450
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 450
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 451
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 451
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 468
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 468
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 470
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 470
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 479
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 479
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Undefined offset: 0 C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 480
+ERROR - 2024-05-15 14:02:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp5\htdocs\pemantauan\application\controllers\Apbd_2.php 480
