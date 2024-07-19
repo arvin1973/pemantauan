@@ -186,13 +186,13 @@ class Apbd_2 extends CI_Controller
             if (strlen($item) == 1) {
                 $idsub = $this->db->query("SELECT kode FROM standarkelompok_apbd WHERE standarutama_APBD_id='$item'")->result_array();
                 array_push($itemdrilldown, $idsub);
-                foreach($idsub as $s){
-                    $sub = $s['kode'];
-                    if (strlen($sub) == 2) {
-                        $idrilldown = $this->db->query("SELECT kode FROM standarjenis_apbd WHERE standarkelompok_APBD_id='$sub'")->result_array();
-                        array_push($itemdrilldown, $idrilldown);
-                    }
-                }
+                // foreach($idsub as $s){
+                //     $sub = $s['kode'];
+                //     if (strlen($sub) == 2) {
+                //         $idrilldown = $this->db->query("SELECT kode FROM standarjenis_apbd WHERE standarkelompok_APBD_id='$sub'")->result_array();
+                //         array_push($itemdrilldown, $idrilldown);
+                //     }
+                // }
             }
             if (strlen($item) == 2) {
                 $idrilldown = $this->db->query("SELECT kode FROM standarjenis_apbd WHERE standarkelompok_APBD_id='$item'")->result_array();

@@ -468,7 +468,6 @@
     <script src="<?php echo base_url("assets"); ?>/js/highcharts/modules/export-data.js?v=<?php echo now("Asia/Jakarta") ?>"></script>
     <script src="<?php echo base_url("assets"); ?>/js/highcharts/modules/offline-exporting.js"></script>
 
-
     <script src="<?php echo base_url("assets"); ?>/js/highcharts/highcharts-more.js"></script>
     <script src="<?php echo base_url("assets"); ?>/js/highcharts/modules/accessibility.js"></script>
     <script src="<?php echo base_url("assets"); ?>/js/highcharts/modules/annotations.js"></script>

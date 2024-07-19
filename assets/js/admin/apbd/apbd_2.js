@@ -197,141 +197,235 @@ function tabel_apbd() {
                 success:function(response){
                     var data = JSON.parse(response);
                     console.log(data);
-                    var grafik_data = [];
-                    var grafik_drilldown_data =[];
-
-                    data.data_all_all_nilai_apbd_2.forEach((item) => {
-                        // Check if the "kode" has 2 digits
-                        if (/^\d{2}$/.test(item.kode)) {
-                            var itemCopy = JSON.parse(JSON.stringify(item)); // Deep copy the item
-                            grafik_data.push(itemCopy);
-                        }
-                    });
                     
-                    data.data_all_all_nilai_apbd_2.forEach((item) => {
-                        // Check if the "kode" has 4 digits
-                        if (/^\d{4}$/.test(item.kode)) {
-                            var itemCopy = JSON.parse(JSON.stringify(item)); // Deep copy the item
-                            grafik_drilldown_data.push(itemCopy);
-                        }
-                    });
-
                     //drilldown
                     $('#html_barchart').html('');
                     var html_barchart = '';
-                    console.log(grafik_data);
-                    console.log(grafik_drilldown_data);
+                    var seriesData = {};
+                    var series = [];
+                    var grafik_item = [];
+                    var data_stacked_apbd = data.data_all_all_nilai_apbd;
+
+                    console.log(data_stacked_apbd);
+                    var unique_tahun = [...new Set(data_stacked_apbd.map(item=>item.tahun))];
+                    var nm_daerah = [...new Set(data_stacked_apbd.map(item=>item.nama_daerah))];
+                    var unique_item = [...new Set(data_stacked_apbd.map(item=>item.kode_item).filter(kode_item=>kode_item.length===1))];
 
 
-                    for(let g = 0; g < grafik_data.length; g++){
+                    unique_tahun.forEach(function(year) {
+                        var filteredData = data_stacked_apbd.filter(item => item.tahun === year);
+                        var seriesData = {};
+                        console.log(filteredData);
 
-                        var isi = grafik_data[g];
-                        allsubdata = [];
-                        
-                        for(let u=0; u < grafik_drilldown_data.length; u++){
-                            var isi2 = grafik_drilldown_data[u];
-                            const indexstr = isi2.kode.slice(0,2);
-                            
-                            if(isi.kode==indexstr){
-                                subdata = [];
-
-                                isi2.data.forEach((item) => {
-                                    item.value.forEach((valueItem) => {
-                                    const id = `${valueItem.tahun}-${item.nama_daerah}`;
-                                    const legenda = `${item.nama_daerah} ${valueItem.tahun}`;
-                                    const data = [isi2.nama, parseFloat(valueItem.jumlah)];
-                                    if (!allsubdata[id]) {
-                                        allsubdata[id] = {
-                                            id: id,
-                                            name: legenda, // Assign legenda as the name
-                                            data: [],
-                                        };
-                                    }
-                                    allsubdata[id].data.push(data);
-                                    });
-                                });
-                                const combinedData = Object.values(allsubdata);
-                                seriessubgrafik = [];
-                                seriessubgrafik.push({
-                                    allowPointDrilldown: true,
-                                    series: combinedData
-                                });
+                        filteredData.forEach(function(item) {
+                            if (item.kode_item.length === 2) {
+                                if (!seriesData[item.nama_item]) {
+                                    seriesData[item.nama_item] = {};
+                                }
+                                if (!seriesData[item.nama_item][item.nama_daerah]) {
+                                    seriesData[item.nama_item][item.nama_daerah] = 0;
+                                }
+                                seriesData[item.nama_item][item.nama_daerah] += parseInt(item.jumlah);
                             }
-                        }
-                        
-                        var chartId = 'grafik-' + (g + 1);
-                        
-                        html_barchart = '<div id='+chartId+' class="mb-2"></div>';
-                        $('#html_barchart').append(html_barchart);
-                        
-                        var nama = isi.nama;
-                        var kode = isi.kode;
-                        var chartname = kode+'. '+nama;                   
-
-                        var grafikmaindata = [];
-
-                        isi.data.forEach(function (item) {
-                            var dataPoints = item.value.map(function (valueItem) {
-                                return {
-                                    name: valueItem.tahun,
-                                    y: parseInt(valueItem.jumlah),
-                                    drilldown: valueItem.tahun + "-" + item.nama_daerah
-                                };
-                            });
-
-                            grafikmaindata.push({
-                                name: item.nama_daerah,
-                                data: dataPoints
-                            });
                         });
+                        var series = [];
+                        for (var item in seriesData) {
+                            var data_series = [];
+                            nm_daerah.forEach(function(category) {
+                                data_series.push(seriesData[item][category] || 0);
+                            });
+                            series.push({
+                                name: item,
+                                data: data_series
+                            });
+                        }
 
-                        Highcharts.chart(chartId, {
+                        
+                        var chartstacked = 'stackedbar-'+year;
+                            
+                        html_barchart = '<div id='+chartstacked+' class="mb-2"></div>';
+                        $('#html_barchart').append(html_barchart);
+
+                        Highcharts.chart(chartstacked, {
                             chart: {
-                              type: 'column'
+                                type: 'column'
                             },
                             title: {
-                              text: chartname,
-                              align: 'center'
-                            },
-                            plotOptions: {
-                                series: {
-                                pointPadding: 0.4,
-                                groupPadding: 0.1
-                              }
-                            },	
-                            tooltip: {
-                                shared: true,
+                                text: 'APBD ' + year
                             },
                             xAxis: {
-                              type: 'category',
+                                categories: nm_daerah,
                             },
-                            plotOptions: {
-                              series: {
-                                borderWidth: 0,
-                                dataLabels: {
-                                  enabled: true
-                                }
-                              }
-                            },
-                            series: grafikmaindata,
-                            drilldown: seriessubgrafik[0],
-                            exporting: {
-                                buttons: {
-                                    copyToClipboard: {
-                                        text: 'Copy Chart',
-                                        _titleKey: 'contextButtonTitle',
-                                        align: 'right',
-                                        onclick: function () {
-                                            // Call the function to copy the chart to the clipboard
-                                            copyHtmlToClipboard(this.container);
-                                        },            
+                            yAxis: {
+                                min: 0,
+                                title: {
+                                    text: 'Jumlah'
+                                },
+                                stackLabels: {
+                                    enabled: true,
+                                    style: {
+                                        fontWeight: 'bold',
+                                        color: (Highcharts.defaultOptions.title.style && Highcharts.defaultOptions.title.style.color) || 'gray'
                                     }
                                 }
-                            }
-                        });
-                    }
+                            },
+                            legend: {
+                                align: 'right',
+                                x: -30,
+                                verticalAlign: 'top',
+                                y: 25,
+                                floating: true,
+                                backgroundColor: Highcharts.defaultOptions.legend.backgroundColor || 'white',
+                                borderColor: '#CCC',
+                                borderWidth: 1,
+                                shadow: false
+                            },
+                            tooltip: {
+                                headerFormat: '<b>{point.x}</b><br/>',
+                                pointFormat: '{series.name}: {point.y}<br/>Total: {point.stackTotal}'
+                            },
+                            plotOptions: {
+                                column: {
+                                    stacking: 'normal',
+                                    dataLabels: {
+                                        enabled: true
+                                    }
+                                }
+                            },
+                            series: series
+                        })
+                    })
+                    
+                    // var grafik_data = [];
+                    // var grafik_drilldown_data =[];
+                    // data.data_all_all_nilai_apbd_2.forEach((item) => {
+                    //     // Check if the "kode" has 2 digits
+                    //     if (/^\d{2}$/.test(item.kode)) {
+                    //         var itemCopy = JSON.parse(JSON.stringify(item)); // Deep copy the item
+                    //         grafik_data.push(itemCopy);
+                    //     }
+                    // });
+                    
+                    // data.data_all_all_nilai_apbd_2.forEach((item) => {
+                    //     // Check if the "kode" has 4 digits
+                    //     if (/^\d{4}$/.test(item.kode)) {
+                    //         var itemCopy = JSON.parse(JSON.stringify(item)); // Deep copy the item
+                    //         grafik_drilldown_data.push(itemCopy);
+                    //     }
+                    // });
 
 
+
+                    // for(let g = 0; g < grafik_data.length; g++){
+
+                    //     var isi = grafik_data[g];
+                    //     allsubdata = [];
+                        
+                    //     for(let u=0; u < grafik_drilldown_data.length; u++){
+                    //         var isi2 = grafik_drilldown_data[u];
+                    //         const indexstr = isi2.kode.slice(0,2);
+                            
+                    //         if(isi.kode==indexstr){
+                    //             subdata = [];
+
+                    //             isi2.data.forEach((item) => {
+                    //                 item.value.forEach((valueItem) => {
+                    //                 const id = `${valueItem.tahun}-${item.nama_daerah}`;
+                    //                 const legenda = `${item.nama_daerah} ${valueItem.tahun}`;
+                    //                 const data = [isi2.nama, parseFloat(valueItem.jumlah)];
+                    //                 if (!allsubdata[id]) {
+                    //                     allsubdata[id] = {
+                    //                         id: id,
+                    //                         name: legenda, // Assign legenda as the name
+                    //                         data: [],
+                    //                     };
+                    //                 }
+                    //                 allsubdata[id].data.push(data);
+                    //                 });
+                    //             });
+                    //             const combinedData = Object.values(allsubdata);
+                    //             seriessubgrafik = [];
+                    //             seriessubgrafik.push({
+                    //                 allowPointDrilldown: true,
+                    //                 series: combinedData
+                    //             });
+                    //         }
+                    //     }
+                        
+                    //     var chartId = 'grafik-' + (g + 1);
+                        
+                    //     html_barchart = '<div id='+chartId+' class="mb-2"></div>';
+                    //     $('#html_barchart').append(html_barchart);
+                        
+                    //     var nama = isi.nama;
+                    //     var kode = isi.kode;
+                    //     var chartname = kode+'. '+nama;                   
+
+                    //     var grafikmaindata = [];
+
+                    //     isi.data.forEach(function (item) {
+                    //         var dataPoints = item.value.map(function (valueItem) {
+                    //             return {
+                    //                 name: valueItem.tahun,
+                    //                 y: parseInt(valueItem.jumlah),
+                    //                 drilldown: valueItem.tahun + "-" + item.nama_daerah
+                    //             };
+                    //         });
+
+                    //         grafikmaindata.push({
+                    //             name: item.nama_daerah,
+                    //             data: dataPoints
+                    //         });
+                    //     });
+
+                    //     Highcharts.chart(chartId, {
+                    //         chart: {
+                    //           type: 'column'
+                    //         },
+                    //         title: {
+                    //           text: chartname,
+                    //           align: 'center'
+                    //         },
+                    //         plotOptions: {
+                    //             series: {
+                    //             pointPadding: 0.4,
+                    //             groupPadding: 0.1
+                    //           }
+                    //         },	
+                    //         tooltip: {
+                    //             shared: true,
+                    //         },
+                    //         xAxis: {
+                    //           type: 'category',
+                    //         },
+                    //         plotOptions: {
+                    //           series: {
+                    //             borderWidth: 0,
+                    //             dataLabels: {
+                    //               enabled: true
+                    //             }
+                    //           }
+                    //         },
+                    //         series: grafikmaindata,
+                    //         drilldown: seriessubgrafik[0],
+                    //         exporting: {
+                    //             buttons: {
+                    //                 copyToClipboard: {
+                    //                     text: 'Copy Chart',
+                    //                     _titleKey: 'contextButtonTitle',
+                    //                     align: 'right',
+                    //                     onclick: function () {
+                    //                         // Call the function to copy the chart to the clipboard
+                    //                         copyHtmlToClipboard(this.container);
+                    //                     },            
+                    //                 }
+                    //             }
+                    //         }
+                    //     });
+                    // }
+
+
+                    //tabel
                     if (data.html != '') {
                         $('#judul-tabel-apbd').html('');
                         $('#isi-tabel-apbd').html('');
@@ -460,6 +554,20 @@ function tabel_apbd() {
     }
 
 };
+
+document.getElementById('showdata').addEventListener('click', e => {
+    var series = chart.series[0];
+    var series1 = chart.series[1];
+    if (series.visible & series1.visible) {
+      series.hide();
+      series1.hide();
+      e.target.innerHTML = 'Show sample 1 & 2';
+    } else {
+      series.show();
+      series1.show();
+      e.target.innerHTML = 'Hide sample 1 & 2';
+    }
+  })
 
 function grafik_apbd() {
 
